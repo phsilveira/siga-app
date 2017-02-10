@@ -54,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
 
         main_web_view.getSettings().setLoadWithOverviewMode(true);
         main_web_view.getSettings().setUseWideViewPort(true);
+        main_web_view.getSettings().setBuiltInZoomControls(true);
+        main_web_view.getSettings().setDisplayZoomControls(false);
 
         //set client to handle errors and intercept link clicks
         main_web_view.setWebViewClient(new WebViewClient(){
