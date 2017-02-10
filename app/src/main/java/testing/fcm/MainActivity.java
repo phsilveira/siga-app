@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
+import android.view.KeyEvent;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
@@ -101,9 +102,10 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * function handle scan result
+     *
      * @param requestCode scanned code
      * @param resultCode  result of scanned code
-     * @param intent intent
+     * @param intent      intent
      */
     public void onActivityResult(int requestCode, int resultCode, Intent intent) {
         //retrieve scan result
@@ -113,16 +115,29 @@ public class MainActivity extends AppCompatActivity {
             //we have a result
             String codeContent = scanningResult.getContents();
             String codeFormat = scanningResult.getFormatName();
+            String webUrl = main_web_view.getUrl();
 
-            Toast toast = Toast.makeText(getApplicationContext(),codeContent, Toast.LENGTH_SHORT);
+            Toast toast = Toast.makeText(getApplicationContext(), codeContent , Toast.LENGTH_SHORT);
             toast.show();
 
             //load the URL and Pass the scanned barcode
-            openUrl(POST_URL+codeContent);
+            openUrl(webUrl+ '/' + codeContent);
 
-        }else{
-            Toast toast = Toast.makeText(getApplicationContext(),"No scan data received!", Toast.LENGTH_SHORT);
+        } else {
+            Toast toast = Toast.makeText(getApplicationContext(), "No scan data received!", Toast.LENGTH_SHORT);
             toast.show();
         }
+    }
+
+    @Override
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
+        // Check if the key event was the Back button and if there's history
+        if ((keyCode == KeyEvent.KEYCODE_BACK) && main_web_view.canGoBack()) {
+            main_web_view.goBack();
+            return true;
+        }
+        // If it wasn't the Back key or there's no web page history, bubble up to the default
+        // system behavior (probably exit the activity)
+        return super.onKeyDown(keyCode, event);
     }
 }
