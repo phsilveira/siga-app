@@ -3,201 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jar="/home/paulo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_6dc1efef89ba92af36504569778ea0d12637a7ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_bad85daf4bb9c29071e0f7ea402a17aaf0f82481/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_84dd4c0b00ad294f8a2b633e1d048cf771fbdafd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_abbb6cf6565e5391600f42e794cd7651128fa41b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_0927258628a8afc95c05f153abaebb767db2d667/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_4d6ff100be60d5e7644607c31881a4a3191b15ae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="7eb68150c290a271a716675ebdfd176eac694124">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-legacy-2.0.1_6ab587059c356040275964a5294b2ae4a9202787/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.0.1_058d0bb56c96748fc7770bb7532c3c5df24ef7b5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_5c57897d7405358e9ad76741fc1f972b110f76a5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="78b813a1062655bdc0b50bb3263cd00024adb8ca">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5d04bf5ad7ac19c6fdd2769e3e0b29a4d2876e0c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_5bfa2ad92a50e87ce3f595822e904d62dae68766/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="f38c1fe0ee3d0ef717e7f32131719fccf07fd6c7">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-2.0.1_0f844f8f16fcc9144deecfff56096c508abc40d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_fd50d3ababe6d660c38b4c32e11a08ff10905221/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-integration/2.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-integration-2.0.1_469bccd2d4300ee39663a13ad8d4c65343bdc8e3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_d53b7d6d76bbcf9705e09f0c004a03b62b558194/classes.dex" />
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_43a29018c2be36c2afb79bc77173828a095bffc5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/paulo/.android/build-cache/1b5267e52c4c837d1ca2512fd51ba9cb8468963d/output/jars/libs/internal_impl-23.1.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="3d48e6e978010ed0975a1de0cdbadec2e5fba07d">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cd5311b7d097f28082bc07fe20de29250adf0026/classes.dex" />
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_99fd4cb90e245d39609d089ac856e94073fc10aa/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jar="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_616968e09fb39f8dcd1ba7cbab0db772ef0879f0/classes.dex" />
+        revision="25.0.0"
+        sha1="94dd30912099c85d22af7c8c8728740bc7d513c7">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4cf6b83c998853a50bb538808a7d2269e7e97d05/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jar="/home/paulo/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_4f07e67311a1f3d6ea925c82fde55fa5c79b8343/classes.dex" />
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_f184795dc6a232dfdb093f02fde6e103b60cfc17/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jar="/home/paulo/.android/build-cache/e50c654f9dbb12f533f4c11cf66219b6d9634102/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_d742588bbbc4efb04f84f866c2d97b951191e269/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_2f887a1c27f055981e97a13fa12fe108f7ef23ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_7c8d289f40e2cf0a2625c38e03b7cc14f34e2d97/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
+        revision="25.0.0"
         sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="/home/guilherme/Documents/Projects/Einstein/FinalAndroid/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_209433baf3aee462d022c2bdaa5a1e3000d84a52/classes.dex" />
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1889236ae001ffc5d58283ede9cff1988d09b532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/e6955bc1814e2689a4ed0729f1801905967398b6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99d7ed88742bcd023bb9a94ac4090d6437b53724/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/237a52903f69526ca26333fab678f42527967ea5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69c12ea456b8dc1b97c36d283949dc681245cca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_6f3b637d51e595e5ca04e63c3121ae96b41f3a93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/818962b652c362c9fcee0fa526d7286d7830a683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e871933c09b2d5b313fe8ae58426265b42529bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/1b5267e52c4c837d1ca2512fd51ba9cb8468963d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51399395b4ba7073cdb751e243c1850824e8829a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/1e33588da0044bde71060091523f6b8c529f91e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83ff14dd3c387d8664d208481a4cde509a0212ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9630f754ce2b77d299c994e08c78734766117df4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/81f477e2f63983b94ae08bbb5692766b7315e307/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f8160e1b690c297af645b01809c3890b884f0be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/89b28179a3d3773de496bc53b3b2be31cfcf7e02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5af9f4126af8bfb941db9121ca3d761ee6396f0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_0b21941f88aef700ccee8a84e90e5995b17dcfbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/006b0746b17063b8d78fc5580b63404818af1b39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62b8c78277b36156ccf6676302ad2f320dd3c76e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paulo/.android/build-cache/60b224ae49794419581674d5f2bb696d2164f36b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6a2cf21870eac5fbad51be041285ffc54ca6d67/classes.dex" />
     </item>
 
 </items>

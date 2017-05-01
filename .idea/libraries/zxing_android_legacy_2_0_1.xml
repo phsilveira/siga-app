@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="zxing-android-legacy-2.0.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/0740549a45a36f08e68a8a0d2217f6c33a41bfeb/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0740549a45a36f08e68a8a0d2217f6c33a41bfeb/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

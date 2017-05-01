@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     public static final String MAIN_SITE_URL = "http://www.prowl.esy.es/test",
             STRING_TO_MATCH_FOR_BARCODE_SCAN = "firebarcodescannerforwebsites=1",
+            STRING_TO_MATCH_FOR_NFC_SCAN = "firenfccodescannerforwebsites=1",
             POST_URL = "http://www.prowl.esy.es/test/admin/assignments/register/^[0-9]$/";
     private WebView main_web_view;
 
@@ -27,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
 
         FirebaseMessaging.getInstance().subscribeToTopic("test");
         FirebaseInstanceId.getInstance().getToken();
@@ -70,8 +70,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean shouldOverrideUrlLoading(WebView view, String url) {
                 // we will interrupt the link here
-                if(isURLMatching(url)) {
-                    scanNow();
+                if (isURLMatchingBarCode(url)) {
+                    scanBarCodeNow();
+                    return true;
+                }
+                if (isURLMatchingNfcCode(url)) {
+                    scanNfcCodeNow();
                     return true;
                 }
                 return super.shouldOverrideUrlLoading(view,url);
@@ -84,24 +88,52 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Function to check if URL match contains our string
+     * Function to check if URL match contains our barcode string
      * @param url string URL to compare
      * @return boolean true or false
      */
-    protected boolean isURLMatching(String url){
+    protected boolean isURLMatchingBarCode(String url) {
         return url.toLowerCase().contains(STRING_TO_MATCH_FOR_BARCODE_SCAN.toLowerCase());
+    }
+
+    /**
+     * Function to check if URL match contains our NFC code string
+     * @param url string URL to compare
+     * @return boolean true or false
+     */
+    protected boolean isURLMatchingNfcCode(String url) {
+        return url.toLowerCase().contains(STRING_TO_MATCH_FOR_NFC_SCAN.toLowerCase());
     }
 
     /**
      * Initiate the barcode scan
      */
-    public void scanNow(){
+    public void scanBarCodeNow() {
         IntentIntegrator integrator = new IntentIntegrator(this);
         integrator.setDesiredBarcodeFormats(IntentIntegrator.ONE_D_CODE_TYPES);
         integrator.setPrompt(String.valueOf("Scan Barcode"));
-        integrator.setResultDisplayDuration(0);
-        integrator.setWide();  // Wide scanning rectangle, may work better for 1D barcodes
+//        integrator.setResultDisplayDuration(0);
+//        integrator.setWide();  // Wide scanning rectangle, may work better for 1D barcodes
         integrator.setCameraId(0);  // Use a specific camera of the device
+
+        integrator.setBeepEnabled(true);
+        integrator.setBarcodeImageEnabled(true);
+        integrator.initiateScan();
+    }
+
+    /**
+     * Initiate the nfc scan
+     */
+    public void scanNfcCodeNow() {
+        IntentIntegrator integrator = new IntentIntegrator(this);
+        integrator.setDesiredBarcodeFormats(IntentIntegrator.ONE_D_CODE_TYPES);
+        integrator.setPrompt(String.valueOf("Scan Barcode"));
+//        integrator.setResultDisplayDuration(0);
+//        integrator.setWide();  // Wide scanning rectangle, may work better for 1D barcodes
+        integrator.setCameraId(0);  // Use a specific camera of the device
+
+        integrator.setBeepEnabled(true);
+        integrator.setBarcodeImageEnabled(true);
         integrator.initiateScan();
     }
 
