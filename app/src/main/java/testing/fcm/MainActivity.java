@@ -6,6 +6,7 @@ import android.app.PendingIntent;
 import android.content.DialogInterface;
 import android.content.Intent;
 
+import android.content.res.Configuration;
 import android.nfc.NdefMessage;
 import android.nfc.NdefRecord;
 import android.nfc.NfcAdapter;
@@ -68,11 +69,11 @@ public class MainActivity extends AppCompatActivity {
         mDialog = new AlertDialog.Builder(this).setNeutralButton("Ok", null).create();
 
         mAdapter = NfcAdapter.getDefaultAdapter(this);
-        if (mAdapter == null) {
-            showMessage(R.string.error, R.string.no_nfc);
-            finish();
-            return;
-        }
+        //if (mAdapter == null) {
+            //showMessage(R.string.error, R.string.no_nfc);
+            //finish();
+            //return;
+        //}
 
         mPendingIntent = PendingIntent.getActivity(this, 0,
                 new Intent(this, getClass()).addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP), 0);
@@ -310,8 +311,11 @@ public class MainActivity extends AppCompatActivity {
             main_web_view.goBack();
             return true;
         }
+        else {
+            return false;
+        }
         // If it wasn't the Back key or there's no web page history, bubble up to the default
         // system behavior (probably exit the activity)
-        return super.onKeyDown(keyCode, event);
+        //return super.onKeyDown(keyCode, event);
     }
 }
