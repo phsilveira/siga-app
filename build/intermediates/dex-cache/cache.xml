@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f34b2e711b1bc1ee786cea83e77cbc08a9131680">
+        sha1="d1d9d83dad7602c2b77c9b7d39d2f08af79f4654">
         <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24c5debb18ce57c714d77791477bdf6252e9135a\classes.dex" />
     </item>
     <item
@@ -99,15 +99,6 @@
         revision="25.0.0"
         sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
         <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f40ffd5647ef6d344a007b0256216fa10c45dfb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\PC\.android\build-cache\6a8935f31f16dba9b1178235f48e2e28f241d33b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
-        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17c8fd1ced3ddd82d7de36ccdd2eeffe0d9e691e\classes.dex" />
     </item>
     <item
         is-multidex="true"
