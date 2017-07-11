@@ -3,156 +3,183 @@
 
     <item
         is-multidex="true"
-        jar="/home/paulo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jar="C:\Users\PC\Desktop\fcm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_43a29018c2be36c2afb79bc77173828a095bffc5/classes.dex" />
+        sha1="08cb5490e17fa6a7d4cc3670235363b486677387">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24c5debb18ce57c714d77791477bdf6252e9135a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/.android/build-cache/1b5267e52c4c837d1ca2512fd51ba9cb8468963d/output/jars/libs/internal_impl-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_99fd4cb90e245d39609d089ac856e94073fc10aa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1c7cc8953708feb4e6fad6afe12c86088a58adf4">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4cf6b83c998853a50bb538808a7d2269e7e97d05/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_f184795dc6a232dfdb093f02fde6e103b60cfc17/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/.android/build-cache/e50c654f9dbb12f533f4c11cf66219b6d9634102/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1889236ae001ffc5d58283ede9cff1988d09b532/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/.android/build-cache/e6955bc1814e2689a4ed0729f1801905967398b6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99d7ed88742bcd023bb9a94ac4090d6437b53724/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/.android/build-cache/237a52903f69526ca26333fab678f42527967ea5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69c12ea456b8dc1b97c36d283949dc681245cca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_6f3b637d51e595e5ca04e63c3121ae96b41f3a93/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/.android/build-cache/818962b652c362c9fcee0fa526d7286d7830a683/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e871933c09b2d5b313fe8ae58426265b42529bc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/paulo/.android/build-cache/1b5267e52c4c837d1ca2512fd51ba9cb8468963d/output/jars/classes.jar"
+        jar="C:\Users\PC\.android\build-cache\db815343a9b166dfc2db3fa18e68277b2784193f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51399395b4ba7073cdb751e243c1850824e8829a/classes.dex" />
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57a9153dac0c95e762e314a1a311404d71f8a325\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/.android/build-cache/1e33588da0044bde71060091523f6b8c529f91e3/output/jars/classes.jar"
+        jar="C:\Users\PC\.android\build-cache\9815ff35f3772fa4cfa288ee5a9ffef3335edf7a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83ff14dd3c387d8664d208481a4cde509a0212ce/classes.dex" />
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_367b3ea103cbb393af705f1d690883118c61591f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9630f754ce2b77d299c994e08c78734766117df4/classes.dex" />
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_6194c87e44e10dcce6b3740f2a7e75c22784d86f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/.android/build-cache/81f477e2f63983b94ae08bbb5692766b7315e307/output/jars/classes.jar"
+        jar="C:\Users\PC\.android\build-cache\ec5efb9f3965ee258ab2d2ae0561454ab478b022\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f8160e1b690c297af645b01809c3890b884f0be/classes.dex" />
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12dd68a0169c11f5d40947f16c52f9a1e0d2b05c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/.android/build-cache/89b28179a3d3773de496bc53b3b2be31cfcf7e02/output/jars/classes.jar"
+        jar="C:\Users\PC\.android\build-cache\e9b7ce31d400d98964229b52c44d975792c774b5\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5af9f4126af8bfb941db9121ca3d761ee6396f0d/classes.dex" />
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c61f20b568b6708a8883427cf0f65ac196c954f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jar="C:\Users\PC\Desktop\fcm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4966a3cc4abb33fd718a68b103540223d1889f17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\db815343a9b166dfc2db3fa18e68277b2784193f\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_275f20b6781f2da0367d10ac99fd7d2011969763\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\df7d8cb61b3c565c1b1e8cd62d63176278ac93dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7eb68150c290a271a716675ebdfd176eac694124">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32fc008c990d4bd0275a8ae93e059eac7cb98331\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_0b21941f88aef700ccee8a84e90e5995b17dcfbf/classes.dex" />
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_e5bc4fcf76771a0007e4c54c75019b588d8c7eb2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/.android/build-cache/006b0746b17063b8d78fc5580b63404818af1b39/output/jars/classes.jar"
+        jar="C:\Users\PC\.android\build-cache\cbbafc47c0acd4db1350d11dcfce2b6b798d937b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f40ffd5647ef6d344a007b0256216fa10c45dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\6a8935f31f16dba9b1178235f48e2e28f241d33b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4d7d4290dc3f13bdb95a92b2377d78e66084dfa">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17c8fd1ced3ddd82d7de36ccdd2eeffe0d9e691e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\889fd7d6320bc6ad3f4647eb041b496c5c399807\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e87171da1f45346d18764a7ca636474ccdd5ef8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_5ad4a0382f8725aefd5a7316f12f1165a2aa9052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\d72256ab09c99f6df120adaf01411d06a9c8da17\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62b8c78277b36156ccf6676302ad2f320dd3c76e/classes.dex" />
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a311979816d9d7048e85baaeee9b4cd7916ea41\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/paulo/.android/build-cache/60b224ae49794419581674d5f2bb696d2164f36b/output/jars/classes.jar"
+        jar="C:\Users\PC\.android\build-cache\dfca963d16858ce83f5eabde346f96b22534484b\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="/home/paulo/Documents/prowl/einstein/app/official/fcm/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6a2cf21870eac5fbad51be041285ffc54ca6d67/classes.dex" />
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_330636e97bcc62c216bfce458aa9d02e451393f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_fc14af01bea6ca937b11563b056bca6e148f28e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\bd04bab0699509d68ec2084e85696264ad54435e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c83c42d5ac6866186328e638895fdca9cc9227a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\bdba21cb74921248ef51afbedc29eb6703c28b70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cea76902985f9f73fe2e06c8db25cd0fefe8175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\c7ed02f90f11fa2030439cadc54f4a1d8d5a6bae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\PC\Desktop\fcm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c69d79695d7dbcd9c7729ace729de69e12fa54a\classes.dex" />
     </item>
 
 </items>
